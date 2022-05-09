@@ -1,3 +1,4 @@
+This repo is outdated , the bester ways using unite , pixelsaver ( gnome extensions ) , it will remove title bar for non-gtk apps
 # Reduce-title-bar-height
 Tested in zorin os 16
 ## To reduce the title bar high , clone this code to ~/.config/gtk-3.0/
